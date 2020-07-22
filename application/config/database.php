@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'lizcalendal-db.canpeabsn7mi.ap-northeast-2.rds.amazonaws.com',
+	'username' => 'kyle',
+	'password' => 'kylelovelizzy',
+	'database' => 'codeigniter',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

@@ -1,1 +1,6 @@
-Hello World_home!
+<?php
+
+$text = "test";
+
+echo $text;
+
